@@ -1,0 +1,9 @@
+/Users/nickorlow/Projects/TheHomeDepotInventoryQuiz/HomeDepotAPI/obj/Debug/netstandard2.1/HomeDepotAPI.csprojAssemblyReference.cache
+/Users/nickorlow/Projects/TheHomeDepotInventoryQuiz/HomeDepotAPI/obj/Debug/netstandard2.1/HomeDepotAPI.csproj.CoreCompileInputs.cache
+/Users/nickorlow/Projects/TheHomeDepotInventoryQuiz/HomeDepotAPI/obj/Debug/netstandard2.1/HomeDepotAPI.AssemblyInfoInputs.cache
+/Users/nickorlow/Projects/TheHomeDepotInventoryQuiz/HomeDepotAPI/obj/Debug/netstandard2.1/HomeDepotAPI.AssemblyInfo.cs
+/Users/nickorlow/Projects/TheHomeDepotInventoryQuiz/HomeDepotAPI/bin/Debug/netstandard2.1/HomeDepotAPI.deps.json
+/Users/nickorlow/Projects/TheHomeDepotInventoryQuiz/HomeDepotAPI/bin/Debug/netstandard2.1/HomeDepotAPI.dll
+/Users/nickorlow/Projects/TheHomeDepotInventoryQuiz/HomeDepotAPI/bin/Debug/netstandard2.1/HomeDepotAPI.pdb
+/Users/nickorlow/Projects/TheHomeDepotInventoryQuiz/HomeDepotAPI/obj/Debug/netstandard2.1/HomeDepotAPI.dll
+/Users/nickorlow/Projects/TheHomeDepotInventoryQuiz/HomeDepotAPI/obj/Debug/netstandard2.1/HomeDepotAPI.pdb
